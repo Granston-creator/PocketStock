@@ -1,5 +1,5 @@
-streamlit
+streamlit==1.34.0
 yfinance
 pandas-ta
 google-genai
-st-paywall
+st-paywall==0.1.8
